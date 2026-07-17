@@ -1,0 +1,6 @@
+gradio
+chromadb
+google genai
+uuid
+PdfReader
+SentenceTransformer
