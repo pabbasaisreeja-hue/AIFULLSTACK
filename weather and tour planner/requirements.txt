@@ -1,0 +1,4 @@
+Groq
+DDGS
+requests
+gradio 
